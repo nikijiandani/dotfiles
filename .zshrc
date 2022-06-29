@@ -7,3 +7,4 @@
 
 alias gs='git status'
 alias gb='git branch'
+alias gco='git checkout -b'
