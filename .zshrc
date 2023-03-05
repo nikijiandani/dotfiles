@@ -17,3 +17,6 @@ alias sc='spin code'
 alias so='spin open'
 alias gpfl='git push --force-with-lease'
 alias gpf='git push -f'
+alias gp='git push'
+alias gl='git log'
+
