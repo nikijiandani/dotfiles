@@ -20,3 +20,5 @@ alias gpf='git push -f'
 alias gp='git push'
 alias gl='git log'
 
+PS1='%~: '
+
