@@ -19,6 +19,7 @@ alias gpfl='git push --force-with-lease'
 alias gpf='git push -f'
 alias gp='git push'
 alias gl='git log'
+alias dr='dev reup && dev restart --procs'
 
 PS1='%n@%m %~ %# '
 
